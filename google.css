@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    margin-left: 44%;
+    margin-top: 11%;
+    font-size: 70px;
+    color: white;
+    transition: all;
+    transition-duration: 2s;
+    transition-delay: 0s;
+
+}
+
+
+.top-section{
+    margin-left: 80%;
+}
+
+.search-bar{
+    margin-left: 32%;
+    padding: 15px 200px;
+    margin-top: 1%;
+    border-radius: 20px;
+    border: none;
+}
+
+button-div{
+    margin-left: 40%;
+    margin-top: 1.5%;
+}
+
+
+.sp{
+    margin-left: -41%;
+}
+
+
+button{
+    padding: 12px 25px;
+    margin-left: 15px;
+    border-radius: 12px;
+}
+
+
+body{
+    background-image:linear-gradient(to left,rgba(0,0,0,0.7),rgba(255,255,255,0.185)),
+    url(./image/laptop.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 97vh;
+}
+
+button :hover{
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 0px;
+}
+
+
+h1 :hover{
+    color: darkred;
+    font-size: 90px;
+}
+
+/* button-div{
+    margin-left: 87%;
+} */
+
+.link{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}

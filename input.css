@@ -1,0 +1,10 @@
+.button{
+    margin-left: -6px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:5px ;
+}
+.email{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px ;
+
+}
